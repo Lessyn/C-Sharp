@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\ws-vs2019\Exercícios\URIONLINE\Exercicios\URI 1021\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
